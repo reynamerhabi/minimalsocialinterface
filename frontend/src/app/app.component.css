@@ -1,0 +1,18 @@
+.btn-oval{
+  border-radius: 20px;
+  width: 100px;
+}
+.card{
+  max-width: 50em;
+  max-height: 50em;
+}
+
+.card-image{
+max-width: 40em;
+max-height: 40em;
+}
+
+.form-section{
+  background-color: white;
+  border-bottom: 1px #e5e5e5 solid;
+}
